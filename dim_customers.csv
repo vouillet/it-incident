@@ -1,0 +1,51 @@
+customer_id,customer_name,department,customer_type
+101,Mia Jones,Corporate Finance,Internal User
+102,Bob Brown,Global HR Operations,IT Manager
+103,Mia Jones,Logistics & Supply Chain,Internal User
+104,Tina Anderson,Legal & Compliance,Internal User
+105,Peter Miller,R&D,Internal User
+106,Emma Brown,Sales & Marketing,Internal User
+107,Nathan Anderson,Executive Office,Internal User
+108,Emma Rodriguez,R&D,Internal User
+109,Bob Wilson,Logistics & Supply Chain,Internal User
+110,Frank Gonzalez,Executive Office,Internal User
+111,Mia Miller,R&D,Internal User
+112,Sam Wilson,Global HR Operations,Internal User
+113,David Hernandez,Sales & Marketing,Internal User
+114,Karen Johnson,Sales & Marketing,Internal User
+115,Olivia Smith,Sales & Marketing,1st SL External Desk
+116,Frank Rodriguez,Logistics & Supply Chain,IT Manager
+117,Jack Wilson,Corporate Finance,Internal User
+118,Frank Rodriguez,Global HR Operations,Internal User
+119,Peter Smith,Logistics & Supply Chain,IT Manager
+120,Jack Brown,Global HR Operations,Internal User
+121,Tina Johnson,Logistics & Supply Chain,Internal User
+122,Carol Gonzalez,Payroll & Accounting,Internal User
+123,Peter Rodriguez,Payroll & Accounting,Internal User
+124,Victor Miller,Corporate Finance,IT Manager
+125,Grace Lopez,Sales & Marketing,Internal User
+126,Leo Davis,R&D,Internal User
+127,Henry Johnson,Legal & Compliance,Internal User
+128,Sam Brown,Corporate Finance,Internal User
+129,Bob Brown,Logistics & Supply Chain,IT Manager
+130,Karen Johnson,Corporate Finance,Internal User
+131,Peter Brown,Payroll & Accounting,Internal User
+132,Tina Martinez,R&D,Internal User
+133,Peter Gonzalez,Executive Office,Internal User
+134,David Hernandez,Executive Office,Internal User
+135,Nathan Davis,Global HR Operations,Internal User
+136,David Smith,Executive Office,Internal User
+137,David Brown,Corporate Finance,Internal User
+138,Olivia Williams,Executive Office,Internal User
+139,Olivia Brown,Logistics & Supply Chain,Internal User
+140,Sam Johnson,Global HR Operations,Internal User
+141,Sam Wilson,Global HR Operations,1st SL External Desk
+142,Henry Williams,Executive Office,Internal User
+143,Grace Wilson,Executive Office,IT Manager
+144,Frank Miller,Global HR Operations,1st SL External Desk
+145,Irene Anderson,R&D,Internal User
+146,Sam Hernandez,R&D,Internal User
+147,Jack Brown,Global HR Operations,Internal User
+148,Sam Smith,Legal & Compliance,Internal User
+149,Tina Davis,Payroll & Accounting,Internal User
+150,Rachel Johnson,Payroll & Accounting,Internal User

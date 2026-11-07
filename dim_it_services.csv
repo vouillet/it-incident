@@ -1,0 +1,47 @@
+service_id,service_name,service_category,business_criticality,owner_department
+10,HR Portal (Service A),Enterprise Applications,High,Global HR
+11,ERP Financials (Service B),Enterprise Applications,High,Finance Operations
+12,VPN & Remote Access Gateway,Infrastructure,High,Corporate IT
+13,Email & Collaboration Suite,Enterprise Applications,High,Corporate IT
+14,Active Directory & IAM,Security & Access,High,Information Security
+15,Salesforce CRM Platform,Enterprise Applications,High,Sales Operations
+16,Supply Chain Inventory System,Enterprise Applications,Medium,Logistics & Operations
+17,Corporate Laptop Workstations,User Hardware,Medium,Corporate IT Services
+18,Network Switches & Wi-Fi,Infrastructure,Medium,Network Engineering
+19,Payroll Management System,Enterprise Applications,High,Finance Operations
+20,Business Intelligence & Power BI,Enterprise Applications,Low,Data & Analytics
+21,VoIP Phone & Telephony System,Infrastructure,Low,Telecom Ops
+22,Customer Support Desk Portal,Enterprise Applications,High,Customer Experience
+23,Developer Cloud Sandbox,Infrastructure,Low,R&D Software
+24,Print & Document Server,User Hardware,Low,Facilities & IT
+25,Module 1 (Enterprise Applications Tool),Enterprise Applications,High,Marketing
+26,Module 2 (User Hardware Tool),User Hardware,High,Finance Operations
+27,Module 3 (Infrastructure Tool),Infrastructure,Low,Global HR
+28,Module 4 (Network Services Tool),Network Services,High,Sales Ops
+29,Module 5 (Security & Access Tool),Security & Access,High,Global HR
+30,Module 6 (Enterprise Applications Tool),Enterprise Applications,High,Finance Operations
+31,Module 7 (Network Services Tool),Network Services,Low,Global HR
+32,Module 8 (Network Services Tool),Network Services,High,Marketing
+33,Module 9 (Network Services Tool),Network Services,Medium,Finance Operations
+34,Module 10 (Security & Access Tool),Security & Access,Low,Corporate IT
+35,Module 11 (Enterprise Applications Tool),Enterprise Applications,High,Marketing
+36,Module 12 (Security & Access Tool),Security & Access,Medium,Corporate IT
+37,Module 13 (Infrastructure Tool),Infrastructure,High,Legal
+38,Module 14 (User Hardware Tool),User Hardware,High,Global HR
+39,Module 15 (Security & Access Tool),Security & Access,High,Corporate IT
+40,Module 16 (User Hardware Tool),User Hardware,Low,Corporate IT
+41,Module 17 (Enterprise Applications Tool),Enterprise Applications,Low,Logistics
+42,Module 18 (Network Services Tool),Network Services,High,Logistics
+43,Module 19 (Enterprise Applications Tool),Enterprise Applications,Low,Corporate IT
+44,Module 20 (Network Services Tool),Network Services,Medium,Sales Ops
+45,Module 21 (Infrastructure Tool),Infrastructure,Low,Global HR
+46,Module 22 (Enterprise Applications Tool),Enterprise Applications,Low,Finance Operations
+47,Module 23 (User Hardware Tool),User Hardware,High,Legal
+48,Module 24 (Infrastructure Tool),Infrastructure,High,Logistics
+49,Module 25 (User Hardware Tool),User Hardware,Medium,Marketing
+50,Module 26 (User Hardware Tool),User Hardware,High,Corporate IT
+51,Module 27 (User Hardware Tool),User Hardware,High,Marketing
+52,Module 28 (User Hardware Tool),User Hardware,Low,Marketing
+53,Module 29 (Enterprise Applications Tool),Enterprise Applications,Low,Marketing
+54,Module 30 (Infrastructure Tool),Infrastructure,Low,Marketing
+55,Module 31 (Infrastructure Tool),Infrastructure,High,Logistics

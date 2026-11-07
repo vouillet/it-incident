@@ -1,0 +1,5 @@
+sla_tier_id,sla_tier_name,priority_level,target_reaction_time_mins,target_resolution_time_hrs,description
+1,Critical / P1,1,15,2.0,"System down, business halted for core users"
+2,High / P2,2,30,8.0,"Major functionality impaired, workarounds available"
+3,Medium / P3,3,60,24.0,Minor feature degradation or individual user impact
+4,Low / P4,4,120,72.0,"General inquiry, service request, cosmetic issue"

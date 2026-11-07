@@ -1,0 +1,16 @@
+actor_id,actor_name,support_level,primary_role,assigned_service_id
+401,John Doe,1st SL,Service Desk Specialist,13
+402,Jane Smith,1st SL,Service Desk Specialist,12
+403,Michael Chang,2nd SL,System Administrator,10
+404,Sarah Jenkins,2nd SL,ERP Specialist,11
+405,Alex Rivera,3rd SL,Lead Software Engineer,10
+406,David Kim,3rd SL,Database Architect,11
+407,Vendor - SAP Global,Vendor,External L3 Support,11
+408,Vendor - Microsoft Enterprise,Vendor,Cloud Architect,13
+409,Emily Watson,1st SL,Helpdesk Agent,17
+410,Carlos Gomez,2nd SL,Network Engineer,18
+411,Priya Patel,2nd SL,IAM Analyst,14
+412,Robert Taylor,3rd SL,DevOps Engineer,23
+413,Vendor - Cisco Tech,Vendor,Network Infrastructure Vendor,12
+414,Lisa Ray,1st SL,Service Desk Agent,15
+415,James Wilson,2nd SL,CRM Admin,15
